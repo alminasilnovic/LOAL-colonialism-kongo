@@ -1,0 +1,19 @@
+start. → Spiel starten
+
+look. → Umgebung ansehen
+
+n. — gehe nach Norden
+
+s. — gehe nach Süden
+
+e. — gehe nach Osten
+
+w. — gehe nach Westen
+
+take(schluessel). → nimmt den Gegenstand X auf, wenn er am aktuellen Ort liegt.
+
+inventory. → zeigt dir alle Gegenstände, die du gerade bei dir hast.
+
+drop(messer). → legt den Gegenstand X an deinem aktuellen Ort ab, wenn du ihn hast.
+
+halt. → Spiel beenden
