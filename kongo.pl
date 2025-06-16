@@ -17,21 +17,6 @@ found_sister(no).
 talked_guard(no).
 anger_guard(no).
 
-path(prison_cell, hallway).
-path(hallway, prison_cell).
-
-path(hallway, guard_room).
-path(guard_room, hallway).
-
-path(hallway, village).
-path(village, hallway).
-
-path(village, forest).
-path(forest, village).
-
-path(forest, river).
-path(river, forest).
-
 % --- Anweisungen ---
 instructions :-
     nl,
